@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "940912847556",
+    "project_id": "feedy-010221",
+    "storage_bucket": "feedy-010221.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940912847556:android:66b52ad9f6823ee8ed3791",
+        "android_client_info": {
+          "package_name": "com.feedy.feedy_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940912847556-oe8086a98mg1tc07j2m2g1ghv7sdvr33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.feedy.feedy_user",
+            "certificate_hash": "1d201975f37b25f542dd0748c9a8d2b4f606d24a"
+          }
+        },
+        {
+          "client_id": "940912847556-3uchbc86kakjfcm3184reecsd3b05faq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDVLqbEvIEJcTpL8swjl7dnLt2VBrmKZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "940912847556-3uchbc86kakjfcm3184reecsd3b05faq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
